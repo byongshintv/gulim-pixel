@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gulim Pixel';
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/woff2/GulimPixel.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Gulim Pixel';
+  font-weight: 700;
+  font-display: swap;
+  src: url('../fonts/woff2/GulimPixel-Bold.woff2') format('woff2');
+}
